@@ -41,6 +41,7 @@
 
   ##### 6b. LucidChart Conceptual Diagram
   ##### Credit @ Andrew Brown
+  ###### Shared link: https://lucid.app/lucidchart/30397536-e95e-4afb-805d-52b523281544/edit?viewport_loc=-191%2C139%2C2219%2C1079%2C0_0&invitationId=inv_34389892-707f-4981-a4f6-be0d78a8afb2
 
  ![image](https://user-images.githubusercontent.com/98062341/219557565-81af09df-9474-4bad-9f1e-da39d766cbef.png)
 
@@ -50,6 +51,7 @@
  
   #### 7. Recreate Logical Architectual Diagram in LucidChart
   ##### Credit @ Andrew Brown
+  ###### Shared link: https://lucid.app/lucidchart/30397536-e95e-4afb-805d-52b523281544/edit?viewport_loc=44%2C105%2C2219%2C1079%2CNhkwWeH99b2k&invitationId=inv_34389892-707f-4981-a4f6-be0d78a8afb2
   
   ![image](https://user-images.githubusercontent.com/98062341/219826308-6ae853c5-f77a-430f-a8a8-4b84fe13df8a.png)
 
