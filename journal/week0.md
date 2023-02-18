@@ -47,7 +47,7 @@
 
  ![image](https://user-images.githubusercontent.com/98062341/219557819-32538c92-63df-444c-8be2-92ad025bbbee.png)
  
-  #### 7. Recreate Logical Architectual Diagram in LucidCharts
+  #### 7. Recreate Logical Architectual Diagram in LucidChart
   
   ** add **
 
