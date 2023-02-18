@@ -58,7 +58,7 @@
   
   ![image](https://user-images.githubusercontent.com/98062341/219826308-6ae853c5-f77a-430f-a8a8-4b84fe13df8a.png)
   
-  #### 7. – Create/Purchase Custome Domain Name
+  #### 7. – Purchase Custom Domain Name
   ##### Domain Host: Namecheap.com
   
   ![image](https://user-images.githubusercontent.com/98062341/219828365-9ec6eda9-401d-450d-a9ce-8f5195afd3d5.png)
