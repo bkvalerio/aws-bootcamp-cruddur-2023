@@ -31,11 +31,11 @@
 
  ![image](https://user-images.githubusercontent.com/98062341/219820413-5c1ee7ec-c501-439d-b08c-2f6464d202c9.png)
 
-  #### 4b. AWS-MFA
+  ##### 4b. AWS-MFA
 
  ![image](https://user-images.githubusercontent.com/98062341/219820843-c5bb126c-309f-4f81-b3e2-f9209fad6659.png)
 
-  ### 5. – Create Your Free LucidChart Account
+  #### 5. – Create Your Free LucidChart Account
 
  ![image](https://user-images.githubusercontent.com/98062341/219557497-a8d68249-b1a3-4aad-acd3-98a7d254b0f4.png)
 
@@ -47,4 +47,9 @@
 
  ![image](https://user-images.githubusercontent.com/98062341/219557819-32538c92-63df-444c-8be2-92ad025bbbee.png)
 
-  ### 6. – Create Your Free Honeycomb.io Account
+  #### 6. – Create Your Free Honeycomb.io Account
+  ** Add later **
+  
+  #### 7. – Create Your Free Rollbar Account
+  ** Add later **
+
