@@ -43,14 +43,16 @@
 
  ![image](https://user-images.githubusercontent.com/98062341/219557565-81af09df-9474-4bad-9f1e-da39d766cbef.png)
 
-  ##### 6c. Napkin Conceptual Diagram
+  #### 7. Napkin Conceptual Diagram
 
  ![image](https://user-images.githubusercontent.com/98062341/219557819-32538c92-63df-444c-8be2-92ad025bbbee.png)
 
-  #### 7. – Create Your Free Honeycomb.io Account
+  #### 8. – Create Your Free Honeycomb.io Account
   
   ![image](https://user-images.githubusercontent.com/98062341/219822633-10241f59-8559-4902-a47b-934634b54c1c.png)
 
-  #### 8. – Create Your Free Rollbar Account
-  ** Add later **
+  #### 9. – Create Your Free Rollbar Account
+  
+  ![image](https://user-images.githubusercontent.com/98062341/219822963-d31d740a-1b37-4573-aa57-7bdcb464fd54.png)
+
 
