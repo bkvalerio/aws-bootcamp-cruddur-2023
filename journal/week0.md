@@ -19,10 +19,6 @@
 
  ![image](https://user-images.githubusercontent.com/98062341/219821325-f32b22e3-a835-403b-a21d-e9b373c2447c.png)
 
-  ##### 2c.  – Creating Your Repository from the Github Template:
-
- ![image](https://user-images.githubusercontent.com/98062341/219556744-84e4831a-e34d-4614-a7b9-6ee40a45bbd1.png)
-
   #### 3. – Set up Github Codespaces
 
  ![image](https://user-images.githubusercontent.com/98062341/219557015-4535c64b-0a64-4cf1-9979-bba5990741b4.png)
@@ -34,22 +30,26 @@
   ##### 4b. AWS-MFA
 
  ![image](https://user-images.githubusercontent.com/98062341/219820843-c5bb126c-309f-4f81-b3e2-f9209fad6659.png)
+ 
+  #### 5.  – Creating Your Repository from the Github Template:
 
-  #### 5. – Create Your Free LucidChart Account
+ ![image](https://user-images.githubusercontent.com/98062341/219556744-84e4831a-e34d-4614-a7b9-6ee40a45bbd1.png)
+
+  #### 6. – Create Your Free LucidChart Account
 
  ![image](https://user-images.githubusercontent.com/98062341/219557497-a8d68249-b1a3-4aad-acd3-98a7d254b0f4.png)
 
-  ##### 5b. LucidChart Conceptual Diagram
+  ##### 6b. LucidChart Conceptual Diagram
 
  ![image](https://user-images.githubusercontent.com/98062341/219557565-81af09df-9474-4bad-9f1e-da39d766cbef.png)
 
-  ##### 5c. Napkin Conceptual Diagram
+  ##### 6c. Napkin Conceptual Diagram
 
  ![image](https://user-images.githubusercontent.com/98062341/219557819-32538c92-63df-444c-8be2-92ad025bbbee.png)
 
-  #### 6. – Create Your Free Honeycomb.io Account
+  #### 7. – Create Your Free Honeycomb.io Account
   ** Add later **
   
-  #### 7. – Create Your Free Rollbar Account
+  #### 8. – Create Your Free Rollbar Account
   ** Add later **
 
