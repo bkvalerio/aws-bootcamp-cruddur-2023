@@ -43,9 +43,13 @@
 
  ![image](https://user-images.githubusercontent.com/98062341/219557565-81af09df-9474-4bad-9f1e-da39d766cbef.png)
 
-  #### 7. Napkin Conceptual Diagram
+  ##### 6c. Napkin Conceptual Diagram (Bonus Points)
 
  ![image](https://user-images.githubusercontent.com/98062341/219557819-32538c92-63df-444c-8be2-92ad025bbbee.png)
+ 
+  #### 7. Recreate Logical Architectual Diagram in LucidCharts
+  
+  ** add **
 
   #### 8. – Create Your Free Honeycomb.io Account
   
