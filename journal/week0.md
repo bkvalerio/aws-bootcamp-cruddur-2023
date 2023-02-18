@@ -48,8 +48,9 @@
  ![image](https://user-images.githubusercontent.com/98062341/219557819-32538c92-63df-444c-8be2-92ad025bbbee.png)
 
   #### 7. – Create Your Free Honeycomb.io Account
-  ** Add later **
   
+  ![image](https://user-images.githubusercontent.com/98062341/219822633-10241f59-8559-4902-a47b-934634b54c1c.png)
+
   #### 8. – Create Your Free Rollbar Account
   ** Add later **
 
