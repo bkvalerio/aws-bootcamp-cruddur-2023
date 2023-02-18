@@ -1,5 +1,7 @@
 # Week 0 — Billing and Architecture
 
+## Required Homework
+
   1. Create a Free Github Account: Github url~ https://github.com/bkvalerio
  ![image](https://user-images.githubusercontent.com/98062341/219556249-ae86b5ee-20d9-49c6-b0da-725eeab46468.png)
 
