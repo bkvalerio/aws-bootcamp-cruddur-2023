@@ -2,9 +2,10 @@
 
 ## Required Homework
 
-  #### 1. Create a Free Github Account: Github url~ https://github.com/bkvalerio
+  #### 1. Create a Free Github Account: 
+  Github url: https://github.com/bkvalerio
   
- ![image](https://user-images.githubusercontent.com/98062341/219556249-ae86b5ee-20d9-49c6-b0da-725eeab46468.png)
+ ![image](https://user-images.githubusercontent.com/98062341/219820579-166b1f20-8e01-41fc-8d97-f012c40ddef3.png)
 
   ##### 1b. – Set up MFA on your Github Account
     
