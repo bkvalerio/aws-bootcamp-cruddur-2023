@@ -28,7 +28,7 @@
  
   #### 4. – Create Your Free AWS Account
   
- ![image](https://user-images.githubusercontent.com/98062341/219557148-05f1ec11-84a7-4056-8f52-93cbd8541931.png)
+ ![image](https://user-images.githubusercontent.com/98062341/219820413-5c1ee7ec-c501-439d-b08c-2f6464d202c9.png)
 
   #### 4b. AWS-MFA
  ![image](https://user-images.githubusercontent.com/98062341/219557389-a4f6630a-246e-4c06-8efe-a71f8eb94a36.png)
