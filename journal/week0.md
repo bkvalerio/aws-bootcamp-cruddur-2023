@@ -36,15 +36,14 @@
  ![image](https://user-images.githubusercontent.com/98062341/219556744-84e4831a-e34d-4614-a7b9-6ee40a45bbd1.png)
  
   #### 5. – Create Momento Account
-  
-  ** Add later **
+  ###### To be completed on DynamoDB day.
 
   #### 6. – Create Your Free LucidChart Account
 
  ![image](https://user-images.githubusercontent.com/98062341/219557497-a8d68249-b1a3-4aad-acd3-98a7d254b0f4.png)
 
   ##### 6b. LucidChart "Conceptual" Diagram
-  ##### Credit @ Andrew Brown
+  ###### Credit @ Andrew Brown
   ###### Shared link: https://lucid.app/lucidchart/30397536-e95e-4afb-805d-52b523281544/edit?viewport_loc=-191%2C139%2C2219%2C1079%2C0_0&invitationId=inv_34389892-707f-4981-a4f6-be0d78a8afb2
 
  ![image](https://user-images.githubusercontent.com/98062341/219557565-81af09df-9474-4bad-9f1e-da39d766cbef.png)
@@ -53,11 +52,17 @@
 
  ![image](https://user-images.githubusercontent.com/98062341/219557819-32538c92-63df-444c-8be2-92ad025bbbee.png)
  
-  #### 7. Recreate "Logical" Architectual Diagram in LucidChart
-  ##### Credit @ Andrew Brown
+  ##### 6d. Recreate "Logical" Architectual Diagram in LucidChart
+  ###### Credit @ Andrew Brown
   ###### Shared link: https://lucid.app/lucidchart/30397536-e95e-4afb-805d-52b523281544/edit?viewport_loc=44%2C105%2C2219%2C1079%2CNhkwWeH99b2k&invitationId=inv_34389892-707f-4981-a4f6-be0d78a8afb2
   
   ![image](https://user-images.githubusercontent.com/98062341/219826308-6ae853c5-f77a-430f-a8a8-4b84fe13df8a.png)
+  
+  #### 7. – Create/Purchase Custome Domain Name
+  ##### Domain Host: Namecheap.com
+  
+  ![image](https://user-images.githubusercontent.com/98062341/219828365-9ec6eda9-401d-450d-a9ce-8f5195afd3d5.png)
+
 
   #### 8. – Create Your Free Honeycomb.io Account
   
